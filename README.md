@@ -26,8 +26,8 @@ Welcome to the Car Rental System project! This Django-based web application allo
   - LinkedIn: [Addis Simegn on LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
 
 - **Daniel Tsega**
-  - GitHub: [DannySanchez6658](https://github.com/DannySanchez6658/)
-  - LinkedIn: [Daniel Tsega on LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
+  - GitHub: [danieltsega](https://github.com/danieltsega/)
+  - LinkedIn: [Daniel Tsega on LinkedIn](https://www.linkedin.com/in/dannySanchez6658/)
 
 - **Abrhaley**
   - GitHub: [Abrsh7](https://github.com/Abrsh7/)
@@ -114,7 +114,7 @@ For any inquiries or issues, please contact the project maintainers:
 
 - Abdi Berhe: [abdiberhe@gmail.com](mailto:abdiberhe@gmail.com)
 - Addis Simegn: [addis@email.com](mailto:addis@gmail.com)
-- Daniel Tsega: [daniel@email.com](mailto:daniel@gmail.com)
+- Daniel Tsega: [dannytsega@outlook.com](mailto:dannytsega@outlook.com)
 - Abrhaley Gebretnsae: [abrshn7@email.com](mailto:abrshn7@gmail.com)
 
 ## API Documentation
